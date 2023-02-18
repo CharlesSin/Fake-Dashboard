@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![alt cover]()
+![alt cover](https://github.com/CharlesSin/Fake-Dashboard/blob/master/public/cover.jpg)
 
 ## Demo
 
